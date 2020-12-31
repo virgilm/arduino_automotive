@@ -5,7 +5,7 @@ USE THIS AT YOUR OWN RISK! I ACCEPT NO RESPONSIBILITY FOR ANY DAMAMGE YOU MAY IN
 
 READ THE CODE FIRST, DON'T RUN IT BLINDLY!
 
-* run the Arduino scetch in read mode
+* run the Arduino sketch in read mode
 * you can use the non-human form to read the binary from the serial console (19200 baud rate)
 * copy the binary form to a file called "st95080_roc_dump.bin"
 * clear the errors, save the output into the same binary file.
